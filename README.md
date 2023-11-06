@@ -3,7 +3,7 @@ Patika-Kodluyoruz Veri yapilari ve algoritmalar eğitimi projeleri için açtı�
 
 ****
 
-##proje1
+## proje1
 
 -1
 
@@ -53,20 +53,24 @@ cevap=average case
 
 ****
 
-##proje2
+## proje2
 
  -1
  
    [16,21,11,8,12,22] -> Merge Sort
    Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
+   
    ![267117632-e19185ea-6e93-4810-9330-cd35ba7b6871](https://github.com/kocakselin/Patika-Veri-Yap-lar--Ve-Algoritmalar/assets/114604723/02c49170-240b-4e94-a2b5-1cd67cc4e002)
    
 -2
   Big-O gösterimini yazınız.
   cevap= O(nlogn)
   
--3
+****
+
+## proje3
  [7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamalarını yazınız.
+ 
  ![267117661-017338c7-3aa0-4962-b668-02c69284ed5b](https://github.com/kocakselin/Patika-Veri-Yap-lar--Ve-Algoritmalar/assets/114604723/d7e1996b-f07d-474b-bd76-87f613e57009)
 
   
