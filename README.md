@@ -2,6 +2,7 @@
 Patika-Kodluyoruz Veri yapilari ve algoritmalar eğitimi projeleri için açtığım repo. 
 ****
 ##proje1
+
 -1
   [22,27,16,2,18,6] -> Insertion Sort
   
